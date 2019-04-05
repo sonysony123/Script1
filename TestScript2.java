@@ -21,6 +21,7 @@ public class TestScript2
 		else
 		{
 			System.out.println("Testcase fail");
+			
 		}
 	}
 	}
